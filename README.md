@@ -1,1 +1,3 @@
-# Demo
+Dice Game
+
+You Vs Computer
